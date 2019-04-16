@@ -8,7 +8,7 @@
 
 import Foundation
 
-class GreetingL
+class Welcome
 {
     // NOTE: Before refactoring, we use the if-else implementation
     
@@ -49,3 +49,4 @@ class GreetingL
         }
     }
 }
+
