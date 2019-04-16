@@ -15,9 +15,13 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         helloWorld()
+        helloWorld(str: "india")
     }
 
     func helloWorld() {
+        print("helloWorld")
+    }
+    func helloWorld(str: String) {
         print("helloWorld")
     }
 
